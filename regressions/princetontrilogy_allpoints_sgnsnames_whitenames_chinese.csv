@@ -1,0 +1,11 @@
+,,0
+params,Princeton Trilogy Chinese Score,0.0002939478609701941
+params,const,0.015699609544085412
+params,_f_test,0.02295823652593561
+pvals,Princeton Trilogy Chinese Score,0.8809465825745304
+pvals,const,0.7185877053682864
+pvals,_f_test,0.8809465825745393
+std,Princeton Trilogy Chinese Score,0.001939996923814939
+std,const,0.043011165408851325
+statistics,adj_r2,-0.044364692198961775
+statistics,r2,0.0010424683314278482

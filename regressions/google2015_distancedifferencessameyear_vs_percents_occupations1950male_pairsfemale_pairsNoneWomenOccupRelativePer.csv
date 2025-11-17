@@ -1,0 +1,11 @@
+,,0
+params,Women Occupation $\%$ Difference,0.0019969006564794956
+params,const,-0.04097477881164128
+params,_f_test,59.305520797509274
+pvals,Women Occupation $\%$ Difference,1.0853645033101774e-10
+pvals,const,0.003331102877016554
+pvals,_f_test,1.0853645033101787e-10
+std,Women Occupation $\%$ Difference,0.00025930380984324103
+std,const,0.013436110513167636
+statistics,adj_r2,0.4728540978571255
+statistics,r2,0.48096403481316974

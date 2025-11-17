@@ -1,0 +1,11 @@
+,,0
+params,Hispanic Occupation Logit Prop,0.03287683954044368
+params,const,0.37379529528348304
+params,_f_test,9.63942482937897
+pvals,Hispanic Occupation Logit Prop,0.0028695667798609346
+pvals,const,1.628679017976986e-26
+pvals,_f_test,0.002869566779860964
+std,Hispanic Occupation Logit Prop,0.010589232930561998
+std,const,0.020576254216295543
+statistics,adj_r2,0.1205959546709815
+statistics,r2,0.1345547490412834

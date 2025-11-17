@@ -17,7 +17,7 @@ This repository contains a replication and extension of Garg et al.'s (2018) sem
 - **Hanwen Zhang**
 
 
-Instructor: Prof. Sandeep Soni
+Instructors: Prof. Sandeep Soni, Prof. Steph Buongiorno
 
 ## Project Overview
 
@@ -84,7 +84,6 @@ This replication uses publicly available pre-trained embeddings:
 
 3. **Additional datasets** (for extensions):
    - Chinese HistWords embeddings
-   - Reddit Temporal N-gram Corpus (informal text comparison)
 
 ### External Benchmarks
 
@@ -126,10 +125,6 @@ We extend the original work by comparing stereotype patterns across languages:
 - Analyze culture-specific stereotypes
 
 **Status:** [In progress]
-
-### Additional Possible Extensions
-
-- **Formal vs. Informal Text**: Comparison using Reddit corpus data
 
 ---
 

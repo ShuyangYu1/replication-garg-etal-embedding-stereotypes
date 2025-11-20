@@ -13,8 +13,8 @@ This repository contains a replication and extension of Garg et al.'s (2018) sem
 
 - **Shuyang Yu**
 - **Eika Zhou**
-- **Jeffrey Zheng**
 - **Hanwen Zhang**
+- **Jeffrey Zheng**
 
 
 Instructors: Prof. Sandeep Soni, Prof. Steph Buongiorno
@@ -106,7 +106,7 @@ The analysis generates three types of outputs:
    - Correlation results between embedding biases and external benchmarks
 
 3. **Run Results** (`run_results/` directory):
-   - Logs of analysis runs with parameters and summary statistics
+   - Logs of analysis runs with parameters and vectors
 
 ## Extensions
 
